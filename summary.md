@@ -1,0 +1,3 @@
+Assalamualaikum wr.wb
+kemarin pada saat gmeet,penjelasan mudah dipahami,dan mentor sangat ramah dan membantu jika ada kebingungan dalam pengerjaan php tersebut,di gmeet kemarin,saya belajar banyak dan mengetahui cara pengerjaan dan apa yng dibutuhkan agar program itu dapat berjalan dengan baik.
+saya diajarkan apa itu looping, function dan lain2,dan apa itu xampp,lampp dan lainnya,kami diajari apa fungsi echo dan banyak lgi,sekian terimakasih.
